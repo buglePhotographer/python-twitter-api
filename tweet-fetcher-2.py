@@ -1,6 +1,5 @@
 import requests
 import configparser
-import configparser
 import pandas as pd
 import time
 
